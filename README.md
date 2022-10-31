@@ -10,6 +10,8 @@ I am interested in using coding skills and statistical method to discover new th
 I am also a research assisant at Center of Data Science at School of Public Affairs of the American University. 
 You can find my information as RA at https://www.american.edu/spa/data-science/graduate-student-fellows.cfm
 
+For my student activity, I am the vice president of American University Student Chapter of American Statistical Association.
+
 
 
 A little TMI about me 💁🏻:
@@ -22,6 +24,7 @@ I speak Mandarin/Chinese, Japanese, English, and right now I am leanring Korean 
 I am open to learn various topic and acceot different challenges. If you want to collaborate, feel free to reach me!
 
 📫 You can reach me by email me at yjchen9596@gmail.com (personal) or yc8322a@american.edu (school).
+https://www.linkedin.com/in/youjia-chen/
 
 
 

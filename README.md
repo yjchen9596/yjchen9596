@@ -30,7 +30,7 @@ I am interested in using coding skills and statistical method to discover new th
  - Regression
  - Political Analysis
  - Machine Learning 
- - Bayesian Statistics (with MCMC model)-
+ - Bayesian Statistics (with MCMC model)
  - Political Data Science.  
 
 I am also a research assistant at the Center of Data Science at the School of Public Affairs, American University.

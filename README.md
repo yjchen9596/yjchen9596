@@ -47,7 +47,7 @@ I am open to learn various topic and acceot different challenges. If you want to
 
 #### 📫 Contact Infromation 📫
 
-[![Email](https://custom-icon-badges.demolab.com/badge/-Email%20Me-teal?style=for-the-badge&logo=mail&logoColor=white)](mailto:mailto:yjchen9596@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Yuka,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
+[![Email](https://custom-icon-badges.demolab.com/badge/-Email%20Me-teal?style=for-the-badge&logo=mail&logoColor=white)](mailto:yjchen9596@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Yuka,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn%20Profile-blue?style=for-the-badge&logo=icons-linkedin-transparent&logoColor=white)](https://www.linkedin.com/in/youjia-chen/)
 
 ----

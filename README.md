@@ -54,7 +54,7 @@ Email: yjchen9596@gmail.com (personal) or yc8322a@american.edu (school).
 https://www.linkedin.com/in/youjia-chen/
 
 
-[![email](https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white)](yjchen9596@gmail.com)
+[![email](https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=mail&logoColor=white)](yjchen9596@gmail.com)
 
 
 <!---

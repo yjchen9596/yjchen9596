@@ -56,7 +56,7 @@ https://www.linkedin.com/in/youjia-chen/
 
 ----
 
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
+[mail]: https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
 
 
 <!---

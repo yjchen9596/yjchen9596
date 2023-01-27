@@ -54,8 +54,8 @@ Email: yjchen9596@gmail.com (personal) or yc8322a@american.edu (school).
 https://www.linkedin.com/in/youjia-chen/
 
 
-[![email](https://custom-icon-badges.demolab.com/badge/-Email%20Me-teal?style=for-the-badge&logo=mail&logoColor=white)](mailto:mailto:yjchen9596@gmail,com?subject=Contact%20from%20GitHub&body=Hi%20Yuka,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
-
+[![Email](https://custom-icon-badges.demolab.com/badge/-Email%20Me-teal?style=for-the-badge&logo=mail&logoColor=white)](mailto:mailto:yjchen9596@gmail,com?subject=Contact%20from%20GitHub&body=Hi%20Yuka,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn%20Profile-blue?style=for-the-badge&logo=icons8-linkedin&logoColor=white)](mailto:mailto:yjchen9596@gmail,com?subject=Contact%20from%20GitHub&body=Hi%20Yuka,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
 
 <!---
 yjchen9596/yjchen9596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

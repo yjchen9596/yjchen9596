@@ -3,10 +3,12 @@
 **`Data Scientist`**
 
 
-I am a graduate student at American University (Washington, D.C.) pursuing M.S. in Data Science for Applied Public Affairs. 
-
+I am a graduate student at American University pursuing M.S. in Data Science for Applied Public Affairs (Washington, D.C.). 
 <br />
 I am interested in using coding skills and statistical method to discover new things about the society and the world. 
+<br />
+I am from Taiwan and Japan 🇹🇼🇯🇵
+
 
 
 #### Languages and Tools 🛠️

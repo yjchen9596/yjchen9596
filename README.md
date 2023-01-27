@@ -49,9 +49,14 @@ I am open to learn various topic and acceot different challenges. If you want to
 
 
 📫 Contact Infromation 📫
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
 Email: yjchen9596@gmail.com (personal) or yc8322a@american.edu (school).
 https://www.linkedin.com/in/youjia-chen/
+
+
+----
+
+https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
 
 
 <!---

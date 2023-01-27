@@ -34,15 +34,9 @@ I am interested in using coding skills and statistical method to discover new th
  - Political Data Science.  
 
 I am also a research assisant at Center of Data Science at School of Public Affairs of the American University. 
-You can find my information as RA at https://www.american.edu/spa/data-science/graduate-student-fellows.cfm
 
-For my student activity, I am the vice president of American University Student Chapter of American Statistical Association.
-
-
-A little TMI about me 💁🏻:
-I have a B.A. in Political Science 📚 at Lesley University (Cambrigde, MA) where I also had two minors in Global Studies 🌎 and Communication and Media Studies 🗣🎙. 
-I am a Taiwanese and grew up in Taiwan majority of my time, but I was born in Japan and gained my high school degree there. 
-I speak Mandarin/Chinese, Japanese, English, and right now I am leanring Korean for fun as I am a k-pop fan.
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Center%20of%20Data&Science-AU-blue?style=for-the-badge&logo=location&logoColor=white
+)](https://www.american.edu/spa/data-science/graduate-student-fellows.cfm)
 
 
 I am open to learn various topic and acceot different challenges. If you want to collaborate, feel free to reach me!

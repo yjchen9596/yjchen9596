@@ -6,7 +6,6 @@
 I am a graduate student at American University (Washington, D.C.) pursuing M.S. in Data Science for Applied Public Affairs. 
 
 <br />
-
 I am interested in using coding skills and statistical method to discover new things about the society and the world. 
 
 

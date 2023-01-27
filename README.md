@@ -6,7 +6,7 @@
 I am a graduate student at American University (Washington, D.C.) pursuing M.S. in Data Science for Applied Public Affairs. 
 I am interested in using coding skills and statistical method to discover new things about the society and the world. 
 
-### Languages and Tools
+#### Languages and Tools 🛠️
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
@@ -16,6 +16,8 @@ I am interested in using coding skills and statistical method to discover new th
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
+          
                    
 <br />
 

@@ -49,7 +49,7 @@ I am open to learn various topic and acceot different challenges. If you want to
 
 ----
 
-[![Yuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 yjchen9596/yjchen9596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

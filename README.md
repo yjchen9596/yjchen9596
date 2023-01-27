@@ -35,7 +35,7 @@ I am interested in using coding skills and statistical method to discover new th
 
 I am also a research assisant at Center of Data Science at School of Public Affairs of the American University. 
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Center%20of%20Data&Science-AU-blue?style=for-the-badge&logo=location&logoColor=white
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Center%20of%20Data&20Science-AU-blue?style=for-the-badge&logo=location&logoColor=white
 )](https://www.american.edu/spa/data-science/graduate-student-fellows.cfm)
 
 

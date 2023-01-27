@@ -47,7 +47,10 @@ I speak Mandarin/Chinese, Japanese, English, and right now I am leanring Korean 
 
 I am open to learn various topic and acceot different challenges. If you want to collaborate, feel free to reach me!
 
-📫 You can reach me by email me at yjchen9596@gmail.com (personal) or yc8322a@american.edu (school).
+
+📫 Contact Infromation 📫
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+Email: yjchen9596@gmail.com (personal) or yc8322a@american.edu (school).
 https://www.linkedin.com/in/youjia-chen/
 
 

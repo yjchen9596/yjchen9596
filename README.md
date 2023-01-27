@@ -9,7 +9,7 @@ I am interested in using coding skills and statistical method to discover new th
 <br />
 I am from Taiwan and Japan 🇹🇼🇯🇵
 
-
+----
 
 #### Languages and Tools 🛠️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />

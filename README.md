@@ -1,4 +1,4 @@
-# Yuka Chen 🧑🏻‍💻 
+# Yuka Chen 🧑🏻‍💻 ![bts](https://i.pinimg.com/564x/be/56/f0/be56f0a31d55d152ba825c32e59d404b.jpg)
 
 **`Data Scientist`**
 

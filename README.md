@@ -1,4 +1,4 @@
-# Yuka Chen 🧑🏻‍💻 ![bts](https://custom-icon-badges.demolab.com/badge/Center%20of%20Data%20Science-AU-blue?style=for-the-badge&logo=bts&logoColor=white)
+# Yuka Chen 🧑🏻‍💻 ![bts](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png)
 
 **`Data Scientist`**
 

@@ -53,6 +53,8 @@ I am open to learn various topic and acceot different challenges. If you want to
 
 [![Yuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+----
+
 #### I am a fan of kpop! 🎶👩🏻‍🎤🧑🏻‍🎤👨🏻‍🎤
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png" />

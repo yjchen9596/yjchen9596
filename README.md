@@ -56,7 +56,7 @@ I am open to learn various topic and acceot different challenges. If you want to
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png" />
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://logos.fandom.com/wiki/B1A4" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/logopedia/images/5/5d/B1A4_logo.png/revision/latest/scale-to-width-down/300?cb=20150215000910" />
 
 
 <!---

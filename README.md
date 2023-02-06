@@ -1,9 +1,6 @@
-# Yuka Chen 🧑🏻‍💻 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png" />
-
-
+# Yuka Chen 🧑🏻‍💻 
 
 **`Data Scientist`**
-
 
 I am a graduate student at American University pursuing *M.S. in Data Science* specialied Applied Public Affairs (Washington, D.C.). 
 <br />
@@ -55,6 +52,12 @@ I am open to learn various topic and acceot different challenges. If you want to
 ----
 
 [![Yuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://logos.fandom.com/wiki/B1A4" />
+
 
 <!---
 yjchen9596/yjchen9596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

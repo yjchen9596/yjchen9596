@@ -54,7 +54,8 @@ I am open to learn various topic and acceot different challenges. If you want to
 [![Yuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png" />
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd8246ad-99b2-4c23-bfd2-15e65bc6876d/d7eg2mt-5879245e-0f69-4b86-9697-13f8438d3be6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkODI0NmFkLTk5YjItNGMyMy1iZmQyLTE1ZTY1YmM2ODc2ZFwvZDdlZzJtdC01ODc5MjQ1ZS0wZjY5LTRiODYtOTY5Ny0xM2Y4NDM4ZDNiZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TE4Fhg7cvDFdLw4TZGsBBeHVqrdiSAHxoR8dSqHRgwE" />
 
 

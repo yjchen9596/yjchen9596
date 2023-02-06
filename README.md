@@ -1,5 +1,7 @@
 # Yuka Chen 🧑🏻‍💻 ![bts](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png)
 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BTS_logo_%282017%29.png/64px-BTS_logo_%282017%29.png" />
+
 **`Data Scientist`**
 
 

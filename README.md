@@ -35,7 +35,7 @@ I am from Taiwan and Japan 🇹🇼🇯🇵
  - Bayesian Statistics (with MCMC model)
  - Political Data Science.  
 
-I am also a research assistant at the Center of Data Science at the School of Public Affairs, American University.
+I am also a *research assistant* at the *Center of Data Science* at the School of Public Affairs, *American University*.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Center%20of%20Data%20Science-AU-blue?style=for-the-badge&logo=location&logoColor=white
 )](https://www.american.edu/spa/data-science/graduate-student-fellows.cfm)

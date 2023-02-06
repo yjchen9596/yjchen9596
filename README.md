@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-I am a graduate student at American University pursuing *M.S. in Data Science* specialied Applied Public Affairs (Washington, D.C.). 
+I am a graduate student at American University pursuing **M.S. in Data Science** specialied Applied Public Affairs (Washington, D.C.). 
 <br />
 I am interested in using coding skills and statistical methods to discover new things about the society and the world. 
 <br />
@@ -35,7 +35,7 @@ I am from Taiwan and Japan 🇹🇼🇯🇵
  - Bayesian Statistics (with MCMC model)
  - Political Data Science.  
 
-I am also a *research assistant* at the *Center of Data Science* at the School of Public Affairs, *American University*.
+I am also a **research assistant** at the ***Center of Data Science*** at the School of Public Affairs, ***American University***.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Center%20of%20Data%20Science-AU-blue?style=for-the-badge&logo=location&logoColor=white
 )](https://www.american.edu/spa/data-science/graduate-student-fellows.cfm)

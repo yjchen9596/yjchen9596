@@ -4,7 +4,9 @@
 
 👋 Hello, I'm Yuka, a recent graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs 🇺🇸 Originally hailing from Taiwan and Japan 🇹🇼🇯🇵, I bring a diverse perspective to the world of data and analytics.
 
-📈 My passion lies in using coding skills and statistical methods to unearth insights about society and the world we live in. I've embarked on an exciting journey as a Marketing Operations Intern at **Wonders**, a dynamic B2B company dedicated to revolutionizing the restaurant industry. Our mission is to provide phone pick-up services and place takeout orders for restaurants, particularly catering to the vibrant Chinese community and now expanding to serve more minority groups of all races and ethnicities.
+📈 My passion lies in using coding skills and statistical methods to unearth insights about society and the world we live in. 
+
+I've embarked on an exciting journey as a Marketing Operations Intern at **Wonders/食客通** <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg](https://github.com/yjchen9596/yjchen9596/blob/main/Wonders_Logo_Full%20Color_Dark.jpg)" />, a dynamic B2B company dedicated to revolutionizing the restaurant industry. Our mission is to provide phone pick-up services and place takeout orders for restaurants, particularly catering to the vibrant Chinese community and now expanding to serve more minority groups of all races and ethnicities.
 
 💼 As part of the Wonders team, I play a crucial role in our marketing operations, supporting the implementation and optimization of campaigns. My responsibilities include:
 

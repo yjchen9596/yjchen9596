@@ -1,12 +1,25 @@
 # Yuka Chen 🧑🏻‍💻 
 
-**`Data Scientist`**
+**`Marketing Ops`**
 
-I am a graduate student at American University pursuing **M.S. in Data Science** specialied Applied Public Affairs (Washington, D.C.). 
-<br />
-I am interested in using coding skills and statistical methods to discover new things about the society and the world. 
-<br />
-I am from Taiwan and Japan 🇹🇼🇯🇵
+👋 Hello, I'm Yuka, a recent graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs 🇺🇸 Originally hailing from Taiwan and Japan 🇹🇼🇯🇵, I bring a diverse perspective to the world of data and analytics.
+
+📈 My passion lies in using coding skills and statistical methods to unearth insights about society and the world we live in. I've embarked on an exciting journey as a Marketing Operations Intern at **Wonders**, a dynamic B2B company dedicated to revolutionizing the restaurant industry. Our mission is to provide phone pick-up services and place takeout orders for restaurants, particularly catering to the vibrant Chinese community and now expanding to serve more minority groups of all races and ethnicities.
+
+💼 As part of the Wonders team, I play a crucial role in our marketing operations, supporting the implementation and optimization of campaigns. My responsibilities include:
+
+Assisting in managing and maintaining marketing systems and tools, such as CRM, marketing automation, and analytics platforms.
+Collaborating with the marketing team to streamline processes and identify automation and efficiency opportunities.
+Analyzing marketing data and generating reports to measure campaign performance, lead generation, and ROI.
+Ensuring seamless data flow between marketing systems and other business applications.
+I also get to work on exciting tasks like planning and executing email marketing campaigns, data cleansing, and monitoring website analytics. Additionally, I'm responsible for staying updated on the latest marketing technology trends, tools, and best practices to keep our team at the forefront of the industry.
+
+🧰 My toolbox includes strong analytical skills, organizational prowess, and proficiency in marketing systems and tools. I'm passionate about data interpretation, campaign management, and customer segmentation. I thrive on clear and concise communication and excel in a fast-paced, collaborative environment.
+
+🌐 Outside of the office, you'll often find me exploring the vast world of data science, continuously learning and growing. I'm eager to share my insights and knowledge with the community. Feel free to connect and explore the data-driven world with me.
+
+🚀 Join me on this data-driven journey, and let's create wonders together!
+
 
 ----
 

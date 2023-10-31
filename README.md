@@ -6,7 +6,7 @@
 
 📈 My passion lies in using coding skills and statistical methods to unearth insights about society and the world we live in. 
 
-I've embarked on an exciting journey as a Marketing Operations Intern at **Wonders/食客通** [![wonders](https://github.com/yjchen9596/yjchen9596/blob/main/Wonders_Logo_Full%20Color_Dark.jpg)]
+I've embarked on an exciting journey as a Marketing Operations Intern at **Wonders/食客通** ![wonders](https://github.com/yjchen9596/yjchen9596/blob/main/Wonders_Logo_Full%20Color_Dark.jpg)
 
  **Wonders/食客通** is a dynamic B2B company dedicated to revolutionizing the restaurant industry. Our mission is to provide phone pick-up services and place takeout orders for restaurants, particularly catering to the vibrant Chinese community and now expanding to serve more minority groups of all races and ethnicities.
 

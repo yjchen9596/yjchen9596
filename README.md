@@ -3,7 +3,7 @@
 </p>
 
 
-# Yuka Chen 🧑🏻‍💻 | `Marketing Ops 💼`
+# Yuka Chen 🧑🏻‍💻 | `Marketing Ops Intern 💼`
 
 
 👋 Hello, I'm Yuka, I am currently working at **Wonders/食客通** as a Marketing Operations Intern. 

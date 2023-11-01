@@ -79,7 +79,7 @@ I am open to learn various topic and acceot different challenges. If you want to
 ----
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yjchen9596&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&show_icons=true&theme=transparent)
 ----
 
 #### I am a fan of kpop! 🎶👩🏻‍🎤🧑🏻‍🎤👨🏻‍🎤

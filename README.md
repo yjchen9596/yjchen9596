@@ -2,10 +2,8 @@
   <img width="500" height="55" src="https://github.com/yjchen9596/yjchen9596/blob/main/Wonders_Logo_Full%20Color_Dark.jpg">
 </p>
 
-# Yuka Chen 🧑🏻‍💻 
 
-**`Marketing Ops 💼`**
-
+# Yuka Chen 🧑🏻‍💻 | `Marketing Ops 💼`
 
 
 👋 Hello, I'm Yuka, I am currently working at **Wonders/食客通** as a Marketing Operations Intern. 
@@ -16,7 +14,7 @@ I am a recent graduate of American University with an M.S. in Data Science, spec
 
 ---
 
-#### **Wonders/食客通 🌀** 
+### **Wonders/食客通 🌀** 
 Wonders is a dynamic B2B company dedicated to revolutionizing the restaurant industry. Our mission is to provide phone pick-up services and place takeout orders for restaurants, particularly catering to the vibrant Chinese community and now expanding to serve more minority groups of all races and ethnicities.
 
 💼 As part of the Wonders team, I play a crucial role in our marketing operations, supporting the implementation and optimization of campaigns.
@@ -80,7 +78,7 @@ I am open to learn various topic and acceot different challenges. If you want to
 
 ----
 
-[![Yuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yjchen9596&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
 ----
 

@@ -77,9 +77,9 @@ I am open to learn various topic and acceot different challenges. If you want to
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn%20Profile-blue?style=for-the-badge&logo=icons-linkedin-transparent&logoColor=white)](https://www.linkedin.com/in/youjia-chen/)
 
 ----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yjchen9596&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&show_icons=true&theme=transparent)
 ----
 
 #### I am a fan of kpop! 🎶👩🏻‍🎤🧑🏻‍🎤👨🏻‍🎤

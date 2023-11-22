@@ -3,10 +3,10 @@
 </p>
 
 
-# Yuka Chen 🧑🏻‍💻 | `Marketing Ops Intern 💼`
+# Yuka Chen 🧑🏻‍💻 | `Marketing Ops Assistant 💼`
 
 
-👋 Hello, I'm Yuka, I am currently working at **Wonders/食客通** as a Marketing Operations Intern. 
+👋 Hello, I'm Yuka, I am currently working at **Wonders/食客通** as a Marketing Operations Assistant. 
 
 I am a recent graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs 🇺🇸 Originally hailing from Taiwan and Japan 🇹🇼🇯🇵, I bring a diverse perspective to the world of data and analytics.
 

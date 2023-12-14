@@ -1,63 +1,8 @@
-<p align="center">
-  <img width="500" height="55" src="https://github.com/yjchen9596/yjchen9596/blob/main/Wonders_Logo_Full%20Color_Dark.jpg">
-</p>
+# Yuka Chen 🧑🏻‍💻 
 
-
-# Yuka Chen 🧑🏻‍💻 | `Marketing Ops Assistant 💼`
-
-
-👋 Hello, I'm Yuka, I am currently working at **Wonders/食客通** as a Marketing Operations Assistant. 
+👋 Hello, I'm Yuka.
 
 I am a recent graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs 🇺🇸 Originally hailing from Taiwan and Japan 🇹🇼🇯🇵, I bring a diverse perspective to the world of data and analytics.
-
-📈 My passion lies in using coding skills and statistical methods to unearth insights about society and the world we live in. 
-
----
-
-### **Wonders/食客通 🌀** 
-Wonders is a dynamic B2B company dedicated to revolutionizing the restaurant industry. Our mission is to provide phone pick-up services and place takeout orders for restaurants, particularly catering to the vibrant Chinese community and now expanding to serve more minority groups of all races and ethnicities.
-
-💼 As part of the Wonders team, I play a crucial role in our marketing operations, supporting the implementation and optimization of campaigns.
-
-My responsibilities include:
-
-✔️ Assisting in managing and maintaining marketing systems and tools, such as CRM, marketing automation, and analytics platforms.<br />
-✔️Collaborating with the marketing team to streamline processes and identify automation and efficiency opportunities.<br />
-✔️Analyzing marketing data and generating reports to measure campaign performance, lead generation, and ROI.<br />
-✔️Ensuring seamless data flow between marketing systems and other business applications.<br />
-<br />
-
-
-I also get to work on exciting tasks like planning and executing marketing campaigns, data cleansing, and monitoring website analytics. 
-
-Additionally, I'm responsible for staying updated on the latest marketing technology trends, tools, and best practices to keep our team at the forefront of the industry.
-
-<br />
-
-🧰 My toolbox includes strong analytical skills, organizational prowess, and proficiency in marketing systems and tools. I'm passionate about data interpretation, campaign management, and customer segmentation. I thrive on clear and concise communication and excel in a fast-paced, collaborative environment.
-
-🌐 Outside of the office, you'll often find me exploring the vast world of data science, continuously learning and growing. I'm eager to share my insights and knowledge with the community. Feel free to connect and explore the data-driven world with me.
-
-🚀 Join me on this data-driven journey, and let's create wonders together!
-
-----
-
-#### Languages and Tools 🛠️
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
-          
-                   
-<br />
-
-
-----
-
 
 🌱 The projects on my repo are for the courses listed below: 🌱
  - Statistical Method in R

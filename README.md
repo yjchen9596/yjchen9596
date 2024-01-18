@@ -25,6 +25,8 @@ I am open to learn various topic and acceot different challenges. If you want to
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YJCHEN9596&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YJCHEN9596&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 ----
 
 #### I am a fan of kpop! 🎶👩🏻‍🎤🧑🏻‍🎤👨🏻‍🎤

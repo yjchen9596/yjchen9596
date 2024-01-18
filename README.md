@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Yuka.
 
-I am a recent graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs 🇺🇸 Originally hailing from Taiwan and Japan 🇹🇼🇯🇵, I bring a diverse perspective to the world of data and analytics.
+I am a graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs 🇺🇸 Originally hailing from Taiwan and Japan 🇹🇼🇯🇵, I bring a diverse perspective to the world of data and analytics.
 
 🌱 The projects on my repo are for the courses listed below: 🌱
  - Statistical Method in R

@@ -2,7 +2,8 @@
 
 👋 Hello, I'm Yuka.
 
-I am a graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs 🇺🇸 Originally hailing from Taiwan and Japan 🇹🇼🇯🇵, I bring a diverse perspective to the world of data and analytics.
+I am a graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs.
+Originally hailing from Taiwan and Japan, I like to bring a diverse perspective to the world of data and analytics(●'◡'●)
 
 🌱 The projects on my repo are for the courses listed below: 🌱
  - Statistical Method in R
@@ -13,13 +14,19 @@ I am a graduate of American University with an M.S. in Data Science, specializin
  - Political Data Science.  
 
 
-I am open to learn various topic and acceot different challenges. If you want to collaborate, feel free to reach me!
+I am open to learning various topics and accept different challenges. If you want to collaborate, feel free to reach me!
 
-
+<div align="center">
+ 
 #### 📫 Contact Infromation 📫
-
+ 
 [![Email](https://custom-icon-badges.demolab.com/badge/-Email%20Me-teal?style=for-the-badge&logo=mail&logoColor=white)](mailto:yjchen9596@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Yuka,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn%20Profile-blue?style=for-the-badge&logo=icons-linkedin-transparent&logoColor=white)](https://www.linkedin.com/in/youjia-chen/)
+
+</div>
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">

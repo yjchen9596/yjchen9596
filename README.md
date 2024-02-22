@@ -34,10 +34,6 @@ I am open to learning various topics and accept different challenges. If you wan
   </a>
 </p>
 
-----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjchen9596&show_icons=true&theme=transparent)
-
 
 ----
 

@@ -1,20 +1,19 @@
 # Yuka Chen 🧑🏻‍💻 
 
-👋 Hello, I'm Yuka.
+Hi there! 👋
+I'm Yuka, a Marketing Operations Analyst at a fast-paced startup. With a strong foundation in data science (Master's, 2023), I thrive on solving marketing and operational challenges through data-driven insights. My toolkit includes Python, R, SQL, dbt, and I'm always exploring better ways to streamline workflows and uncover meaningful trends.
 
-I am a graduate of American University with an M.S. in Data Science, specializing in Applied Public Affairs.
-Originally hailing from Taiwan and Japan, I like to bring a diverse perspective to the world of data and analytics(●'◡'●)
+🔍 What I’m working on:
+Marketing funnel performance analysis & reporting.
+Channel attribution and lead distribution modeling.
+Sustainability analytics and environmental impact reporting.
 
-🌱 The projects on my repo are for the courses listed below: 🌱
- - Statistical Method in R
- - Regression
- - Political Analysis
- - Machine Learning 
- - Bayesian Statistics (with MCMC model)
- - Political Data Science.  
+✨ Interests:
+Crafting efficient marketing analytics pipelines.
+Exploring sustainability practices to reduce carbon footprints.
+Thrillers, movies, and short-form video content.
 
-
-I am open to learning various topics and accept different challenges. If you want to collaborate, feel free to reach me!
+📫 Let’s connect: Whether it’s about coding, analytics, or environmental strategy, I’m always open to learning and collaboration. Feel free to reach out!
 
 <div align="center">
  

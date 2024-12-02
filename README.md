@@ -1,14 +1,17 @@
 # Yuka Chen 🧑🏻‍💻 
 
 Hi there! 👋
+
 I'm Yuka, a Marketing Operations Analyst at a fast-paced startup. With a strong foundation in data science (Master's, 2023), I thrive on solving marketing and operational challenges through data-driven insights. My toolkit includes Python, R, SQL, dbt, and I'm always exploring better ways to streamline workflows and uncover meaningful trends.
 
 🔍 What I’m working on:
+
 Marketing funnel performance analysis & reporting.
 Channel attribution and lead distribution modeling.
 Sustainability analytics and environmental impact reporting.
 
 ✨ Interests:
+
 Crafting efficient marketing analytics pipelines.
 Exploring sustainability practices to reduce carbon footprints.
 Thrillers, movies, and short-form video content.
